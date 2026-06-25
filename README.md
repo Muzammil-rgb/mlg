@@ -188,7 +188,7 @@ Through this project, I learned how to build a complete machine learning classif
 * Saving trained models
 * Building and deploying a Streamlit web application
 
----
+
 
 ## Future Improvements
 
