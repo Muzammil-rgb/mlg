@@ -158,23 +158,11 @@ loan-approval-prediction/
 * **loan_approval_prediction.ipynb** → Jupyter notebook containing EDA, preprocessing, training, and evaluation
 * **screenshots/** → Application screenshots
 
----
 
 
 
----
 
-## How to Run the Project
 
-Run the Streamlit application using the following command:
-
-```bash
-streamlit run app.py
-```
-
-After running the command, the application will open in your browser.
-
----
 
 ## Example Workflow
 
